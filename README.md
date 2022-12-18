@@ -6,7 +6,7 @@
 Migrating Mango.
 It is still updated. </p>
 <br>
-My next goals are to learn <li>React</li> <li>Three.js</li> <li>Typescript</li>
+My next goals are to learn <li>React</li> <li>Typescript</li> <li>Three.js</li> 
 <br>
 My future goals are <li>C#</li> <li>.Net</li>
 
