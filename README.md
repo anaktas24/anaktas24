@@ -8,9 +8,11 @@
 <br>
 <p align="center">Im a junior full-stack developer living in Zurich, Switzerland</p>
 
-- 💻 Final Project [Migrating Mango](https://github.com/oliveranthony17/migrating_mango)
+- 🎯 Currently working on personal website
 
-- 🎨 AirBnB clone [Hammer Time](https://github.com/anaktas24/hammer-time)
+- 💻 Final Project <a href="www.migratingmango.me">Migrating Mango</a>. More informations [here](https://github.com/oliveranthony17/migrating_mango) 
+
+- 🎨 AirBnB clone <a href="hammer-time.herokuapp.com">Hammer Time</a>. More informations [here](https://github.com/anaktas24/hammer-time)
 
 - 🎮 I'm creating a video game **Detective Onion**
 
