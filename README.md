@@ -14,11 +14,17 @@
 
 - 🎨 AirBnB clone <a href="hammer-time.herokuapp.com">Hammer Time</a>. More informations [here](https://github.com/anaktas24/hammer-time)
 
+- 📄 The Projects also on <a href="https://troopl.com/ioanton"> Troopl </a>.
+
+- 📜 My Notion Resume <a href=""> Notion</a>
+
 - 🎮 I'm creating a video game **Detective Onion**
 
 - 📖 I writing a fantasy novel
 
 - ⚡ Motivation **Reach what you cannot**
+
+- The Projects 
  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Currently Learning</b>
 <p style="display: inline-block;" align="center">
