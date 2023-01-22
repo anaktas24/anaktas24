@@ -8,7 +8,9 @@
 <br>
 <p align="center">Im a junior full-stack developer leaning towards Front-end. </p>
 
-- 🎯 Currently working on personal website
+- 🎯 Currently working on personal website with React
+
+- 🎮 I'm creating a video game in Unity Engine and with C#. For modeling i use Blender.
 
 - 💻 Final Project <a href="www.migratingmango.me">Migrating Mango</a>. More informations [here](https://github.com/oliveranthony17/migrating_mango) 
 
@@ -17,8 +19,6 @@
 - 📄 The Projects also on <a href="https://troopl.com/ioanton"> Troopl </a>.
 
 - 📜 My Notion Resume <a href=""> Notion</a>
-
-- 🎮 I'm creating a video game **Detective Onion**
 
 - 📖 I writing a fantasy novel
 
