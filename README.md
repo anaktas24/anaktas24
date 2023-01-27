@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there..++;LeWagon+Alumni+Front-End+Developer,;Creative+Mind,;React+Newbie,;Novice+Fantasy+Author,;Love+to+learn+new+stuff..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=LeWagon+Alumni+Full-Stack+Developer,;Creative+Mind,;React+Newbie,;Novice+Fantasy+Author,;Love+to+learn+new+stuff..."></a>
 </p>
 <br>
 <p align="center">Im a junior full-stack developer leaning towards Front-end. </p>
