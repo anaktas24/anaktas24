@@ -8,23 +8,21 @@
 <br>
 <p align="center">Im a junior full-stack developer leaning towards Front-end. </p>
 
-- 🎯 Currently working on personal website with React
-
-- 🎮 I'm creating a video game in Unity Engine and with C#. For modeling i use Blender.
+- 🎯 Currently working on:
+	<ul>
+		<li><a href="https://github.com/anaktas24/Personal-Website">Portfolio</a> with React and SCSS</li>
+		<li><a href="https://github.com/anaktas24/React-Info-Site">React Info Site</a> with React</li>
+		<li><a href="https://github.com/anaktas24/Detective-Onion"</li> 🎮 Detective Onion 🎮</a> Video game with Unity Engine and C#. For modeling i use Blender.
+	</ul>
 
 - 💻 Final Project <a href="www.migratingmango.me">Migrating Mango</a>. More informations [here](https://github.com/oliveranthony17/migrating_mango) 
 
 - 🎨 AirBnB clone <a href="hammer-time.herokuapp.com">Hammer Time</a>. More informations [here](https://github.com/anaktas24/hammer-time)
 
-- 📄 The Projects also on <a href="https://troopl.com/ioanton"> Troopl </a>.
-
-- 📜 My Notion Resume <a href=""> Notion</a>
-
 - 📖 I writing a fantasy novel
 
 - ⚡ Motivation **Reach what you cannot**
 
-- The Projects 
  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Currently Learning</b>
 <p style="display: inline-block;" align="center">
@@ -112,4 +110,3 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-⚡ Motivation : Reach what you cannot :muscle:
