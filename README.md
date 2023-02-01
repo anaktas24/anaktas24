@@ -10,8 +10,8 @@
 
 - 🎯 Currently working on:
 	<ul>
+		<li><a href="https://github.com/anaktas24/Sou-Chef">Sous Chef - Professional Chef Companion</a> MERN Stack</li>
 		<li><a href="https://github.com/anaktas24/Personal-Website">Portfolio</a> with React and SCSS</li>
-		<li><a href="https://github.com/anaktas24/React-Info-Site">React Info Site</a> with React</li>
 		<li><a href="https://github.com/anaktas24/Detective-Onion"</li> 🎮 Detective Onion 🎮</a> Video game with Unity Engine and C#. For modeling i use Blender.
 	</ul>
 
@@ -29,8 +29,10 @@
  <kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongo-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
   </kbd>
