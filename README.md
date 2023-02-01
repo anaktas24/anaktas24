@@ -29,7 +29,7 @@
  <kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongo-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
