@@ -17,7 +17,7 @@
 
 - 💻 Final Project <a href="www.migratingmango.me">Migrating Mango</a>. More informations [here](https://github.com/oliveranthony17/migrating_mango) 
 
-- 🎨 AirBnB clone <a href="itshammertime.herokuapp.com">Hammer Time</a>. More informations [here](https://github.com/anaktas24/hammer-time)
+- 🎨 AirBnB clone <a href="hammer-time.herokuapp.com">Hammer Time</a>. More informations [here](https://github.com/anaktas24/hammer-time)
 
 - 📖 I writing a fantasy novel
 
@@ -31,14 +31,10 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
   </kbd>
-<br>
-<b> In the future:</b>
-<p style="display: inline-block;" align="center">
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+<br>	
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <p style="display: inline-block;" align="center">
