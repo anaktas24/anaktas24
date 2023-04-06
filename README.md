@@ -10,7 +10,7 @@
 
 - 🎯 Currently working on:
 	<ul>
-		<li><a href="https://github.com/anaktas24/Sou-Chef">Sous Chef - Professional Chef Companion</a> React and Rails</li>
+		<li><a href="https://github.com/anaktas24/Sous-Chef">Sous Chef - Professional Chef Companion</a> NextJs and Rails</li>
 		<li><a href="https://github.com/anaktas24/Personal-Website">Portfolio</a> with React and SCSS</li>
 		<li><a href="https://github.com/anaktas24/Detective-Onion"</li> 🎮 Detective Onion 🎮</a> Video game with Unity Engine and C#. For modeling i use Blender.
 	</ul>
