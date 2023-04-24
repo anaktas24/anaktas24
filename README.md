@@ -42,10 +42,10 @@
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -55,9 +55,11 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+    <img width="30px" src="https://devicon-website.vercel.app/api/rails/plain-wordmark.svg"></img>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img width="30px" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
+    <img width="30px" src="https://devicon-website.vercel.app/api/webpack/original.svg"></img>
   </kbd>
   <kbd>
     <kbd>Database</kbd>
@@ -74,6 +76,14 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Design</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
+    <img width="30px" src="https://devicon-website.vercel.app/api/photoshop/plain.svg"></img>
   </kbd>
    <kbd>
     <kbd>Game Development</kbd>
