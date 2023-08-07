@@ -10,14 +10,8 @@
 
 - 🎯 Currently working on:
 	<ul>
-		<li><a href="https://github.com/anaktas24/Sous-Chef">Sous Chef - Professional Chef Companion</a> NextJs and Rails</li>
-		<li><a href="https://github.com/anaktas24/Personal-Website">Portfolio</a> with React and SCSS</li>
 		<li><a href="https://github.com/anaktas24/Detective-Onion"</li> 🎮 Detective Onion 🎮</a> Video game with Unity Engine and C#. For modeling i use Blender.
 	</ul>
-
-- 💻 Final Project <a href="www.migratingmango.me">Migrating Mango</a>. More informations [here](https://github.com/oliveranthony17/migrating_mango) 
-
-- 🎨 AirBnB clone <a href="hammer-time.herokuapp.com">Hammer Time</a>. More informations [here](https://github.com/anaktas24/hammer-time)
 
 - 📖 I writing a fantasy novel
 
@@ -29,9 +23,8 @@
  <kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
   </kbd>
 <br>	
@@ -56,7 +49,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img width="30px" src="https://devicon-website.vercel.app/api/rails/plain-wordmark.svg"></img>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
