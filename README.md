@@ -10,6 +10,7 @@
 
 - 🎯 Currently working on:
 	<ul>
+		<li>A Kitchen helper with React and Rails</li>
 		<li><a href="https://github.com/anaktas24/Detective-Onion"</li> 🎮 Detective Onion 🎮</a> Video game with Unity Engine and C#. For modeling i use Blender.
 	</ul>
 
