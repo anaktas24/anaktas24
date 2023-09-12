@@ -57,6 +57,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <img width="30px" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
     <img width="30px" src="https://devicon-website.vercel.app/api/webpack/original.svg"></img>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
