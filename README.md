@@ -10,7 +10,7 @@
 
 - 🎯 Currently working on:
 	<ul>
-		<li>Migrating Mango with an Vite React && Rails Api. [Server](https://github.com/anaktas24/Migrating-Mango-v2-Server) and [Client](https://github.com/anaktas24/Migrating-Mango-v2-Client)
+		<li>Migrating Mango with an Vite React && Rails Api. <a href="https://github.com/anaktas24/Migrating-Mango-v2-Server">Server</a> and <a href="https://github.com/anaktas24/Migrating-Mango-v2-Client">Client</a><br>
 		<li><a href="https://ioanton.vercel.app"</li> My simple portfolio website
 		<li>A Kitchen helper with React and Rails</li>
 	</ul>
