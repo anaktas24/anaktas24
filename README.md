@@ -10,11 +10,10 @@
 
 - 🎯 Currently working on:
 	<ul>
+		<li>Migrating Mango with an Vite React - Rails Api stack - Rails <a href="https://github.com/anaktas24/Migrating-Mango-v2-Server" server> and Vite React <a href="https://github.com/anaktas24/Migrating-Mango-v2-Client" client</li>
 		<li><a href="https://ioanton.vercel.app"</li> My simple portfolio website 
 		<li>A Kitchen helper with React and Rails</li>
 	</ul>
-
-- 📖 I writing a fantasy novel
 
 - ⚡ Motivation **Reach what you cannot**
 
