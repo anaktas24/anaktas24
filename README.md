@@ -52,7 +52,7 @@
     <br>
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
     <img width="60px" src="https://devicon-website.vercel.app/api/rails/plain-wordmark.svg"></img>
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
     <img width="60px" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
     <img width="60px" src="https://devicon-website.vercel.app/api/webpack/original.svg"></img>
     <img width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
