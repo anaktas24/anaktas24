@@ -1,5 +1,9 @@
 
-<h1 align="center"><b>Hello there , I'm Ioannis Antoniou </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<header>
+	<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</header>
+<body>
+	<h1 align="center"><b>Hello there , I'm Ioannis Antoniou </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -15,11 +19,10 @@
 		<li>A Kitchen helper with React and Rails</li>
 	</ul>
 
-- ⚡ Motivation **Reach what you cannot**
+- ⚡ Motivation: **Reach what you cannot**
 
-<header>
-	<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</header>
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Currently Learning</b>
 <p style="display: inline-block;" align="center">
  <kbd>
@@ -28,6 +31,7 @@
 	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+	<i class="devicon-threejs-original-wordmark"></i>
         <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
           
   </kbd>
@@ -115,6 +119,7 @@
 <img src="https://img.shields.io/badge/gmail:  Ioannis Antoniou-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+</body>
 	
 </ul>
 </div>
