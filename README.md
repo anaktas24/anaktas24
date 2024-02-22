@@ -17,7 +17,9 @@
 
 - ⚡ Motivation **Reach what you cannot**
 
- 
+<header>
+	<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</header>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Currently Learning</b>
 <p style="display: inline-block;" align="center">
  <kbd>
