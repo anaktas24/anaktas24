@@ -15,7 +15,7 @@
 - 🎯 Currently working on:
 	<ul>
 		<li>Migrating Mango with Vite-React && Rails Api. <a href="https://github.com/anaktas24/Migrating-Mango-v2-Server">Server</a> and <a href="https://github.com/anaktas24/Migrating-Mango-v2-Client">Client</a><br>
-		<li><a href="https://ioanton.vercel.app"</li> My simple portfolio website
+		<li><a href="https://github.com/anaktas24/Portfolio"</li>New Portfolio Project with React and ThreeJs
 	</ul>
 
 - ⚡ Motivation: **Reach what you cannot**
