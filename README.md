@@ -14,7 +14,7 @@
 
 - 🎯 Currently working on:
 	<ul>
-		<li>Migrating Mango with Vite-React && Rails Api. <a href="https://github.com/anaktas24/Migrating-Mango-v2-Server">Server</a> and <a href="https://github.com/anaktas24/Migrating-Mango-v2-Client">Client</a><br>
+		<li>Migrating Mango with Vite-React && Django.
 		<li><a href="https://github.com/anaktas24/Portfolio"</li>New Portfolio Project with React and ThreeJs
 	</ul>
 
@@ -28,8 +28,7 @@
     <br>
     <br>
 	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img width="60px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" />
-        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django.svg" />
           
           
   </kbd>
