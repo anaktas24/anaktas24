@@ -28,7 +28,10 @@
     <br>
     <br>
 	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django.svg" />
+        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
+          
           
           
   </kbd>
@@ -55,6 +58,8 @@
     <br>
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
     <img width="60px" src="https://devicon-website.vercel.app/api/rails/plain-wordmark.svg"></img>
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
     <img width="60px" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
     <img width="60px" src="https://devicon-website.vercel.app/api/webpack/original.svg"></img>
