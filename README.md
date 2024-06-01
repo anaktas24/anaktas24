@@ -14,8 +14,8 @@
 
 - 🎯 Currently working on:
 	<ul>
-		<li>Migrating Mango with Vite-React && Django. <a href="https://github.com/anaktas24/MigratingMango">Here</a>
-		<li><a href="https://github.com/anaktas24/Portfolio"</li>New Portfolio Project with React and ThreeJs
+		<li>Migrating Mango with Vite-React && Django. <a href="https://github.com/anaktas24/MigratingMango"> Here</a>
+		<li>New Portfolio Project with React and ThreeJs. <a href="https://github.com/anaktas24/Portfolio"> Here</a>
 	</ul>
 - ⚠️ My Current 3D Portfolio: <a href="https://johnisland.vercel.app">Website</a>
 - ⚡ Motivation: **Reach what you cannot**
