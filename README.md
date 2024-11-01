@@ -12,10 +12,6 @@
 <br>
 <p align="center">Im a junior full-stack developer with emphasis on Frontend. </p>
 
-- 🎯 Currently working on:
-	<ul>
-		<li>Migrating Mango with Vite-React && Rails <a href="https://github.com/anaktas24/ReaoRai"> Here</a>
-	</ul>
 - ⚠️ My Current 3D Portfolio: <a href="https://johnisland.vercel.app">Website</a>
 - ⚡ Motivation: **Reach what you cannot**
 
