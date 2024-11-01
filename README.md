@@ -14,7 +14,7 @@
 
 - 🎯 Currently working on:
 	<ul>
-		<li>Migrating Mango with Vite-React && Rails <a href="https://github.com/anaktas24/RaoRai"> Here</a>
+		<li>Migrating Mango with Vite-React && Rails <a href="https://github.com/anaktas24/ReaoRai"> Here</a>
 	</ul>
 - ⚠️ My Current 3D Portfolio: <a href="https://johnisland.vercel.app">Website</a>
 - ⚡ Motivation: **Reach what you cannot**
@@ -27,12 +27,6 @@
     <br>
     <br>
 	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
-          
-          
-          
   </kbd>
 <br>	
 
