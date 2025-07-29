@@ -19,15 +19,12 @@
 <a href="mailto:john.ch.anthony@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Ioannis Antoniou-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Personal Project</b>
+	
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Personal Projects</b>
 <p style="display: inline-block;" align="center">
- <kbd>
-	<h3>A website for my upcoming book</h3>
+	<h3>A website for my upcoming book with React Typescript and Ruby on Ruby on Rails.</h3> 
 	<ul><a href="https://github.com/anaktas24/AuthorPage">Frontend</a></ul>
 	<ul><a href="https://github.com/anaktas24/AuthorPageBackend">Backend</a></ul>
-  </kbd>
 <br>	
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
