@@ -7,21 +7,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Creative+Mind,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;"></a>
 </p>
 <br>
 
 
-- ⚡ Motivation: **Reach what you cannot**
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Currently Learning</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Personal Project</b>
 <p style="display: inline-block;" align="center">
  <kbd>
-    <br>
-    <br>
-	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+	<h3>A website for my upcoming book</h3>
+	<ul><a href="https://github.com/anaktas24/AuthorPage">Frontend</a></ul>
+	<ul><a href="https://github.com/anaktas24/AuthorPageBackend">Backend</a></ul>
   </kbd>
 <br>	
 
@@ -63,30 +59,6 @@
     
   </kbd>
   <br>
-  <br>
-  <kbd>
-    <kbd>System, Deployment</kbd>
-    <br>
-    <br>
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Design</kbd>
-    <br>
-    <br>
-    <img width="60px" src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
-    <img width="60px" src="https://devicon-website.vercel.app/api/photoshop/plain.svg"></img>
-  </kbd>
-   <kbd>
-    <kbd>Game Development</kbd>
-    <br>
-    <br>
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" /> 
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
-  </kbd>
 </p> 
 <br/>  
 
