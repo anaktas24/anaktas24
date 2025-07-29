@@ -7,9 +7,18 @@
 
 
 <p align="center">
-  <h3 align="center">Since last year im helping <a href="https://squib.app">Squib Ltd</a> a new startup with the front end using Typescript and React.</h3>
+  <h3 align="center">Since last year, I'm helping <a href="https://squib.app">Squib Ltd</a> a new startup with the front end using Typescript and React.</h3>
 </p>
 <br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Let's connect!</b>
+<div align='left'>
+<a href="https://linkedin.com/in/ioanton" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Ioannis Antoniou-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+<a href="mailto:john.ch.anthony@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Ioannis Antoniou-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Personal Project</b>
@@ -62,25 +71,8 @@
 </p> 
 <br/>  
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
 
-<li>
-<a href="https://linkedin.com/in/ioanton" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Ioannis Antoniou-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:john.ch.anthony@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Ioannis Antoniou-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 </body>
 	
 </ul>
